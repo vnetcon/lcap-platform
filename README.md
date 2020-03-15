@@ -1,4 +1,4 @@
-# Low-Code Appliction Platform (LCAP)
+# Low-Code Application Platform (LCAP)
 
 For us Low-Code Application Platform (LCAP) is a server and set of tools for fast, easy and cheap:
 * REST API development for Web and Mobile Apps
