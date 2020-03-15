@@ -53,8 +53,8 @@ Below is a picture of the folder structure after extracting the zip.
  ## What does the zip include?
 * __Openjdk 1.8:__ This is needed for Drill, Karaf etc.
 * __Apache http server:__ This is for serving web applications.
-* __Apache Drill:__ This is for joining external datasources to one with SQL.
-* __Apache Karaf:__ This is a Talend ESB version of karaf + vNetCon web apps (e.g. jdbc-restservlet for SQL based REST API creation). 
+* __Apache Drill:__ This is for joining external datasources to one with SQL. Can be scaled.
+* __Apache Karaf:__ This is a Talend ESB version of karaf + vNetCon web apps (e.g. jdbc-restservlet for SQL based REST API creation). Can be scaled.
 * __DBeaver:__ The open source version of DBeaver for executing SQL statements against different databases.
 * __Talend TOS for ESB:__ This is Talend Studio for creating Talend Jobs by drag and dropping components and connect those with ”arrows”.
   
