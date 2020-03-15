@@ -43,7 +43,7 @@ We have try to make this as easy as possible (currently only for Windows 10 64 b
 3. __Web Devlopment:__ Create REST API with SQL and build your web app against it.
 5. __Report development:__ Configure your reporting tool connection to Drill and start report creation. (Before this you need to configure database connections (Oracle, SQL Serveer etc.) to drill).
 
-More detailed instructions can be found in wiki pages.  
+More detailed instructions can be found in wiki pages (comming soon).  
 Below is a picture of the folder structure after extracting the zip.
   
   
