@@ -44,7 +44,9 @@ We have try to make this as easy as possible (currently only for Windows 10 64 b
 5. __Report development:__ Configure your reporting tool connection to Drill and start report creation. (Before this you need to configure database connections (Oracle, SQL Serveer etc.) to drill).
 
 More detailed instructions can be found in wiki pages.  
-Below is a picture of the folder structure after extracting the zip.  
+Below is a picture of the folder structure after extracting the zip.
+  
+  
 ![lcap-platform-unzipped](http://vnetcon.s3-website-eu-west-1.amazonaws.com/img/unzipped.png)
 
   
