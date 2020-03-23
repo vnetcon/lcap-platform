@@ -16,6 +16,10 @@ For us Low-Code Application Platform (LCAP) is a server and set of tools for fas
 In corner cases design your visual no-code Talend job (embed java if needed, hopefully not)  
 And on top this we want this to be possible on your own servers __without vendor lock__.  
 In short: You can host your servers where ever you want. 
+  
+  
+This project will be finalized during the ![lcap-homecare](https://github.com/vnetcon/lcap-homecare) development.
+
 
 ## What is Low-Code Architecture Platform?
 
