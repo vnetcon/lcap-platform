@@ -18,7 +18,7 @@ And on top this we want this to be possible on your own servers __without vendor
 In short: You can host your servers where ever you want. 
   
   
-This project will be finalized during the ![lcap-homecare](https://github.com/vnetcon/lcap-homecare) development.
+This project will be finalized during the [lcap-homecare](https://github.com/vnetcon/lcap-homecare) development.
 
 
 ## What is Low-Code Architecture Platform?
